@@ -1,11 +1,8 @@
 # skyblock-simplified
 Multi-purpose bot for hypixel skyblock
 
-# STATUS
-Basic gear optimization for pre-dungeon update has been implemented.
+# ARCHIVED
+DEPRECATED! DO NOT USE!
 
-# TODO
-Adding optimization for dungeon gears
-
-Adding more pet/item support
+I will be pushing new commits to the parent repo now, check it out [here](https://github.com/uwuplant/skyblock-simplified)
 
